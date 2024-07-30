@@ -47,6 +47,7 @@ int main() {
 
     return 0;
 }
+![exp1](https://github.com/ashuydv-05/CDS-Experiment-1/blob/main/Screenshot%202024-07-30%20151908.png)
 
 Co
 
