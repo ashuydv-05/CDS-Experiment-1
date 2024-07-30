@@ -1,15 +1,15 @@
-CDS Experiment -01
-Aim: To install VS CODE and print "HELLO WORLD" including sum, average, even odd and leap year.
-Theory: In this program we have printed HELLO WORLD  and find the sum of two number (user input), average, even odd and also to check entered year is leap year of not using basic C++ language.
-Code for the program as follows:
-// Ashu Yadav
-//23070123154
-//experiment 1
+CDS Experiment -01 <br>
+Aim: To install VS CODE and print "HELLO WORLD" including sum, average, even odd and leap year. <br>
+Theory: In this program we have printed HELLO WORLD  and find the sum of two number (user input), average, even odd and also to check if entered year is leap year of not using basic C++ language.<br>
+Code for the program as follows:<br>
+// Ashu Yadav <br>
+//23070123154 <br>
+//experiment 1 <br>
 
-#include <iostream>
-using namespace std;
+#include <iostream> <br>
+using namespace std; <br>
 
-int main() {
+int main() { <br>
     cout << "Hello world" << endl;
 
     int a, b;
@@ -46,8 +46,9 @@ int main() {
     }
 
     return 0;
-}
-![exp1](https://github.com/ashuydv-05/CDS-Experiment-1/blob/main/Screenshot%202024-07-30%20151908.png)
+} <br>
+![exp1](https://github.com/ashuydv-05/CDS-Experiment-1/blob/main/Screenshot%202024-07-30%20151908.png) <br>
 
-Co
+Conclusion:<br>
+In this experiment we learnt, how to print HELLO WORLD and also to find the sum of two numbers, average , even odd and to check the entered year is leap or not.<br>
 
