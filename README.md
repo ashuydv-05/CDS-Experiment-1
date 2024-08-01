@@ -6,6 +6,7 @@ Code for the program as follows:<br>
 //23070123154 <br>
 //experiment 1 <br>
 
+```
 #include <iostream> <br>
 using namespace std; <br>
 
@@ -46,6 +47,7 @@ int main() { <br>
     }
 
     return 0;
+```
 } <br>
 ![exp1](https://github.com/ashuydv-05/CDS-Experiment-1/blob/main/Screenshot%202024-07-30%20151908.png) <br>
 
